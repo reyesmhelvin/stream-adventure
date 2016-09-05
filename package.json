@@ -9,6 +9,7 @@
   "author": "mor",
   "license": "ISC",
   "dependencies": {
+    "concat-stream": "^1.5.2",
     "split": "^1.0.0",
     "through2": "^2.0.1"
   }
